@@ -11,3 +11,23 @@ Climate Change: Countries and communities around the world are engaged in climat
 - Extreme weather and climate modeling
 - Sustainable land-use change
 - Resilience to impacts caused by extreme events (e.g., droughts, floods, other natural disasters)
+
+
+## Basic Concepts
+
+a. ***Heat***
+- Watt - Rate of Energy Flow (Joules/sec)
+- 1 KWh (Kilo Watt Hour) = 3.6 * 10e+6 Joules
+- The relationship between kinetic energy and temperature: E = 1/2 kT, where T is measured on the Kelvin scale.
+
+b. ***Light***
+ 
+ 
+
+## Naked Planet Climate Model
+
+Energy Out = In
+
+![First Model](https://latex.codecogs.com/gif.latex?Out%20Energy%20%3D%20%5Cepsilon%20%5Csigma%20T%5E%7B4%7D%5Ccdot%20A)
+  
+
