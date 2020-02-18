@@ -26,7 +26,7 @@ b. ***Light***
 
 ## Naked Planet Climate Model
 
-Assuming Earth as a perfect black body (!(https://latex.codecogs.com/gif.latex?%5Cepsilon) = 1)
+Assuming Earth as a perfect black body (![Epsilon](https://latex.codecogs.com/gif.latex?%5Cepsilon) = 1)
 
 Energy Out = In
 
