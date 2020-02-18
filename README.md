@@ -30,6 +30,8 @@ Assuming Earth as a perfect black body (![Epsilon](https://latex.codecogs.com/gi
 
 Energy Out = In
 
-![First Model](https://latex.codecogs.com/gif.latex?Out%20Energy%20%3D%20%5Cepsilon%20%5Csigma%20T%5E%7B4%7D%5Ccdot%20A)
+![First Model](https://latex.codecogs.com/gif.latex?Out%20Energy%20%3D%20%5Cepsilon%20%5Csigma%20T%5E%7B4%7D%5Ccdot%20A); Where A is pi.R^2,R = Radius of Earth.
+
+
   
 
